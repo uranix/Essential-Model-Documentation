@@ -1,0 +1,16 @@
+{
+    "validation_key": "m-sim",
+    "ui_label": "M-SIM",
+    "description": "The M-SIM model incorporates a set of enhanced thermodynamic parameterizations for sea ice processes relative to CICE6.0.0. The main processes simulated cover the surface, interior, and bottom of sea ice. Key physics and notable parameterizations include: maximum entropy production for turbulent heat flux, melt pond size distribution function, dynamic sea ice salinity with associated thermal effects, intrinsic optical properties, floe size distribution and lateral melt, as well as heat and salinity flux exchange across the ice–sea thin transition layer.",
+    "code_base": "",
+    "component": "sea_ice",
+    "family": "",
+    "references": "",
+    "@context": "_context",
+    "@type": [
+        "emd",
+        "wcrp:model_component",
+        "esgvoc:ModelComponent"
+    ],
+    "@id": "m-sim"
+}
