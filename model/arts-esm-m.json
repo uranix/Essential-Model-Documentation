@@ -15,12 +15,13 @@
             "aerosol"
         ]
     ],
-    "crs": "A[L](Ae,O)AeO[Si]Ac^",
+    "crs": "A[L](Ae,O)AeO[ObSi]Ac^",
     "dynamic_components": [
         "atmosphere",
         "aerosol",
         "land-surface",
         "ocean",
+        "ocean-biogeochemistry",
         "sea-ice"
     ],
     "embedded_components": [
@@ -31,6 +32,10 @@
         [
             "sea-ice",
             "ocean"
+        ],
+        [
+            "ocean-biogeochemistry",
+            "ocean"
         ]
     ],
     "family": "arts-esm",
@@ -39,7 +44,8 @@
         "atmosphere_inmam6m_h148_v141",
         "land-surface_inmlnd2-2_h148_v165",
         "ocean_inmom6m_h150_v153",
-        "sea-ice_inmice2m_h150_no-vertical"
+        "sea-ice_inmice2m_h150_no-vertical",
+        "ocean-biogeochemistry_inmocm1-0_h150_v153"
     ],
     "name": "arts-esm-m",
     "omitted_components": [],
