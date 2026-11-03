@@ -277,6 +277,8 @@ body:
         - "g269"
         - "g270"
         - "g271"
+        - "g272"
+        - "g273"
       default: 0
     validations:
       required: true
@@ -511,6 +513,8 @@ body:
         - "g269"
         - "g270"
         - "g271"
+        - "g272"
+        - "g273"
       default: 0
 
   - type: dropdown
@@ -727,6 +731,8 @@ body:
         - "g269"
         - "g270"
         - "g271"
+        - "g272"
+        - "g273"
       default: 0
 
   - type: dropdown
@@ -943,6 +949,8 @@ body:
         - "g269"
         - "g270"
         - "g271"
+        - "g272"
+        - "g273"
       default: 0
 
   - type: dropdown
