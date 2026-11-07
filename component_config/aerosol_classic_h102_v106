@@ -9,7 +9,8 @@
     "@type": [
         "emd",
         "wcrp:component_config",
-        "esgvoc:ComponentConfig"
+        "esgvoc:ComponentConfig",
+        "undefined"
     ],
     "@id": "aerosol-classic-h102-v106"
 }

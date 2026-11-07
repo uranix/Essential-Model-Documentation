@@ -1,9 +1,9 @@
 {
   "@context": {
-    "@alt_base": "https://wcrp-cmip.github.io/Essential-Model-Documentation/model_family/",
-    "@base": "https://emd.mipcvs.dev/model_family/",
+    "@alt_base": "https://uranix.github.io/Essential-Model-Documentation/model_family/",
+    "@base": "https://https://github.com/uranix/Essential-Model-Documentation/.mipcvs.dev/model_family/",
     "@esgvoc": "ModelFamily",
-    "@vocab": "https://emd.mipcvs.dev/docs/contents/ModelFamily/",
+    "@vocab": "https://https://github.com/uranix/Essential-Model-Documentation/.mipcvs.dev/docs/contents/ModelFamily/",
     "collaborative_institutions": {
       "@context": "https://constants.mipcvs.dev/organisation/_context",
       "@type": "@id"
@@ -55,7 +55,6 @@
     {"@id": "cesm"},
     {"@id": "ifs"},
     {"@id": "cas-esm"},
-    {"@id": "canesm"},
     {"@id": "ipsl-cm"},
     {"@id": "icon"},
     {"@id": "si3"},
@@ -70,7 +69,6 @@
     {"@id": "hadcm2"},
     {"@id": "access-esm"},
     {"@id": "gfdl"},
-    {"@id": "classic"},
     {"@id": "glomap-mode"},
     {"@id": "reprobus"},
     {"@id": "cable"},

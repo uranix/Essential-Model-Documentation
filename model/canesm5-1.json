@@ -64,7 +64,8 @@
     "@type": [
         "emd",
         "wcrp:model",
-        "esgvoc:Model"
+        "esgvoc:Model",
+        "undefined"
     ],
     "@id": "canesm5-1"
 }

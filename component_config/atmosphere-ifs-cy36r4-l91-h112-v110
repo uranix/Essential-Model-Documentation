@@ -9,7 +9,8 @@
     "@type": [
         "emd",
         "wcrp:component_config",
-        "esgvoc:ComponentConfig"
+        "esgvoc:ComponentConfig",
+        "undefined"
     ],
     "@id": "atmosphere-ifs-cy36r4-l91-h112-v110"
 }

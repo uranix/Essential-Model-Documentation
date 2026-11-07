@@ -70,7 +70,8 @@
     "@type": [
         "emd",
         "wcrp:model",
-        "esgvoc:Model"
+        "esgvoc:Model",
+        "undefined"
     ],
     "@id": "awi-esm3-4-2-veg-hr"
 }

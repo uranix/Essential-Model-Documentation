@@ -9,7 +9,8 @@
     "@type": [
         "emd",
         "wcrp:component_config",
-        "esgvoc:ComponentConfig"
+        "esgvoc:ComponentConfig",
+        "undefined"
     ],
     "@id": "atmospheric-chemistry-reprobus-c-v2-0-h100-v100"
 }

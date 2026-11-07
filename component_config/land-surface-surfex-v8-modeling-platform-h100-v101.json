@@ -9,7 +9,8 @@
     "@type": [
         "emd",
         "wcrp:component_config",
-        "esgvoc:ComponentConfig"
+        "esgvoc:ComponentConfig",
+        "undefined"
     ],
     "@id": "land-surface-surfex-v8-modeling-platform-h100-v101"
 }
