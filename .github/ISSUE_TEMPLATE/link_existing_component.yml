@@ -45,7 +45,9 @@ body:
         </details>
       options:
         - "Not specified"
+        - "am4-2"
         - "am4-2-aerosol"
+        - "am4-2-chemistry"
         - "arpege-climat-version-6-3"
         - "bcc-agcm4-chem"
         - "bcc-agcm4-mr"
@@ -55,7 +57,6 @@ body:
         - "blom2"
         - "cable3"
         - "cam-ice1"
-        - "cam5-mam3"
         - "cam5-trop-mam3"
         - "cam7"
         - "cam7-nor"
@@ -134,6 +135,7 @@ body:
         - "licom-v3-5"
         - "lim2"
         - "lim3"
+        - "lm4-2"
         - "lmdz6-5"
         - "lmdz6-5-dynamico"
         - "lpj-guess-4-1"
@@ -149,9 +151,11 @@ body:
         - "metum-ga9"
         - "metum-ga9a"
         - "miroc7-agcm"
+        - "miroc7-ils"
         - "mom4p1"
         - "mom5"
         - "mom5-p25"
+        - "mom6-kiost-esm2"
         - "moses2-1"
         - "mri-agcm4-4"
         - "mri-agcm4-4-land-surface"
@@ -180,6 +184,7 @@ body:
         - "si3-v4-2"
         - "sis1"
         - "sis2"
+        - "sis2-kiost-esm2"
         - "sprintars"
         - "surfex-v8-modeling-platform"
         - "tactic"
@@ -386,6 +391,8 @@ body:
         - "v176"
         - "v177"
         - "v178"
+        - "v179"
+        - "v180"
       default: 0
     validations:
       required: true
