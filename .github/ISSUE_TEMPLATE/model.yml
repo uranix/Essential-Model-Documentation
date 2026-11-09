@@ -384,7 +384,6 @@ body:
         - "land-surface_jules-vn5-1_h113_v117"
         - "land-surface_lm4-2_h169_v176"
         - "land-surface_lpj-guess-4-1_h106_v112"
-        - "land-surface_lpj-guess-4-1_h112_v112"
         - "land-surface_lpj-guess-4-1_h153_v112"
         - "land-surface_mcm-ua-1-0land_h133_no-vertical"
         - "land-surface_moses2-1_h136_v117"
